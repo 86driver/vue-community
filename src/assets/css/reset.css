@@ -1,0 +1,36 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike,
+strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td ,textarea,input { margin:0; padding:0;  }
+address,cite,dfn,em,var, i {font-style:normal;}
+body {line-height: 1.5; font-family:'Microsoft Yahei','simsun','arial','tahoma';  color: #222; background: #eee; }
+table { border-collapse:collapse; border-spacing:0; }
+h1, h2, h3, h4, h5, h6, th { font-size: 100%; font-weight: normal; }
+button,input,select,textarea{font-size:100%;}
+fieldset,img{border:0;}
+a { text-decoration: none; color: #666; background: none }
+ul, ol { list-style: none; }
+:focus{ outline:none;}
+.clearfix{ clear: both; content: ""; display: block; overflow: hidden }
+.clear{clear: both;}
+.fl{ float: left; }
+html{
+  overflow-y: scroll; /* 解决滚动条导致的窗口抖动 */
+}
+html,body{
+  height: 100%;
+}
+@media (max-width: 1024px){
+  body{font-size: 12px}
+}
+@media (min-width: 1024px){
+  body{font-size: 14px}
+}
+@media (min-width: 1366px) {
+  body{font-size: 16px;}
+}
+@media (min-width: 1440px) {
+  body{font-size: 18px}
+}
+@media (min-width: 1680px) {
+  body{font-size: 20px;}
+}
