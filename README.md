@@ -1,21 +1,21 @@
-# vue-community
+# PC端 Vue.js社区
+</br></br>
+>* 项目预览：https://86driver.github.io/vue-community/dist </br></br>
 
-> A Vue.js project
+## 介绍
+> 基于 vue2.0 + vuex + vue-router + ES6 + webpack 的单页面应用，接口为社区提供的开放接口  </br></br>
 
-## Build Setup
+## 联系作者：
+>* 微信：a610410574
+>* QQ：610410574
 
-``` bash
-# install dependencies
-npm install
+## 所用知识
+>* `vue全家桶`
+>* `axios`
+>* `less`
+>* `mavonEditor`
+>* `element-ui` </br></br>
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 运行
+>* `npm install`
+>* `npm run dev`
